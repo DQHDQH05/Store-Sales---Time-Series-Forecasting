@@ -22,4 +22,4 @@ Learning objectives:
 3. Also do other data clean not covered above but you believe important and relavant 
 4. Consider possible models. For now, the candidate models are 1) XGBoost, 2) LSTM, 3) Ridge + Random Forest, and 4) transformer (Need Yifei for professional advice here lol)
 
-Good job and see you on 6/15/2022! 
+Good job and see you on 6/22/2022! 
