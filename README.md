@@ -12,6 +12,7 @@ Learning objectives:
 See you on 6/15/2022! 
 
 
+
 6/15/2022 <br />
 ############################################################ <br />
 Welcome new team member: Shuqi Lin from Sweden!
