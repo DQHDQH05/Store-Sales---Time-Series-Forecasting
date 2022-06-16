@@ -2,7 +2,7 @@
 Kaggle project: https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview
 
 6/8/2022 <br />
-################################################################################################## <br />
+############################################################ <br />
 
 Learning objectives: 
 1. Clean and merge data for both train and test dataset for later time series analysis
