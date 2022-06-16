@@ -1,6 +1,7 @@
 # Store-Sales---Time-Series-Forecasting
 Kaggle project: https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview
 
+############################################################ <br />
 6/8/2022 <br />
 ############################################################ <br />
 
@@ -12,7 +13,7 @@ Learning objectives:
 See you on 6/15/2022! 
 
 
-
+############################################################ <br />
 6/15/2022 <br />
 ############################################################ <br />
 Welcome new team member: Shuqi Lin from Sweden!
