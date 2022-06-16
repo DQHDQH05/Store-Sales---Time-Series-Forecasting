@@ -17,7 +17,7 @@ See you on 6/15/2022!
 6/15/2022 <br />
 ############################################################ <br />
 Welcome new team member: Shuqi Lin from Sweden! <br />
-New meeting time: Wed 12pm CST (i.e., 19pm CETn 10am PDT)
+New meeting time: Wed 12pm CST (i.e., 19pm CET, 10am PDT)
 
 Learning objectives: 
 1. Check Kernel "Store Sales TS Forecasting - A Comprehensive Guide" (https://www.kaggle.com/code/ekrembayar/store-sales-ts-forecasting-a-comprehensive-guide)
