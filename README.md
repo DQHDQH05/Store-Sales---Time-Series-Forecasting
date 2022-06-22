@@ -27,6 +27,7 @@ Learning objectives:
     1) XGBoost https://www.kaggle.com/code/satoshiss/store-sales-eda-xgb 
     2) LSTM https://www.kaggle.com/code/shiromeow/time-series-forecasting-with-deep-learning-lstm 
     3) Ridge + Random Forest https://www.kaggle.com/code/dkomyagin/simple-ts-ridge-rf
-    4) transformer (Need Yifei for professional advice here)
+    4) transformer https://towardsdatascience.com/the-time-series-transformer-2a521a0efad3
+    https://github.com/oliverguhr/transformer-time-series-prediction A pytorch model for kick-starting
 
 Good job and see you on 6/22/2022! 
