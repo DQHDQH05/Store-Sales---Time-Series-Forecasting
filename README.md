@@ -45,8 +45,8 @@ Learning objectives:
 1. Ziyi: Generate and upload csv files from the kernel we referred to https://www.kaggle.com/code/ekrembayar/store-sales-ts-forecasting-a-comprehensive-guide
 2. Shuqi: Add "Cluster" information and upload the code
 3. Yifei: Keep or drop "Rare product" (can refer to the kernel about the definiton of "Rare product") and upload the code
-4. Tianyu: Add "Oil price" information (can add same day, averge during last 7 days, average during last 30 days, > or <= 70, etc.)
-5. Qihong: Add promotion information; consider how to use transactions
+4. Tianyu: Add "Oil price" information and upload the code (can add same day, averge during last 7 days, average during last 30 days, > or <= 70, etc.)
+5. Qihong: Add promotion information and upload the code; consider how to use transactions 
 
 Additional: Consider other potenitial models except the five listed above
 
