@@ -51,3 +51,23 @@ Learning objectives:
 Additional: Consider other potenitial models except the five listed above
 
 Good progress and see you on 6/29/2022! 
+
+
+############################################################ <br />
+6/29/2022 <br />
+############################################################ <br />
+New meeting time: Wed 12pm CST (i.e., 19pm CET, 10am PDT)
+
+Data uniformation: 
+1. Ziyi: Generate and upload  both train and test csv files based on https://www.kaggle.com/code/ekrembayar/store-sales-ts-forecasting-a-comprehensive-guide
+2. Tianyu: Add oil-related columns to both train and test csv files
+3. Yifei: Generate train and test csv files with and without rare products
+
+Models: 
+1. Transformer -> Yifei
+2. RNN -> Ziyi
+3. LSTM -> Shuqi
+4. Moving average -> Tianyu
+5. XGBoost, Ridge + Random Forest: Qihong
+
+Enjoy the summer and see you on 7/6/2022! 
